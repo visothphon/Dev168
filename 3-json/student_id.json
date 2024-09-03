@@ -1,0 +1,7 @@
+[
+  {
+    "row": "=IF(COUNTA(C2:C)>0, ROW()-1, \"\")",
+    "start": "=CONCATENATE(L",
+    "end": " + 40444, \"000000\"))"
+  }
+]
